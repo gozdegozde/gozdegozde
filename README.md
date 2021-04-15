@@ -23,7 +23,7 @@
 - 🏓 I am a big fan of playing table tennis.
 - 📫 If you have any question:
 
-    <a href="mailto:gozdeoztoprak0@gmail.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDh_2Xmgp120jLb-HIDz5xJkJodZm8OJgcLw&usqp=CAU" width="80" height="40"> [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzoMEUtk0_UolhcdHw1Y7G-BGtFayu8neNA&usqp=CAU" width="80" height="40">](https://www.linkedin.com/in/gozde-oztoprak-3350a8110/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1mXowQOoDhnVexElVo_B017a1E__nKe8Yw&usqp=CAU" width="80" height="40">](https://www.instagram.com/gozde.oztoprak)
+    <a href="mailto:gozdeoztoprak0@gmail.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdVBokn3P9OSgf6t5gAZV4ulpnKosaGoi2A&usqp=CAU" width="40" height="40"> [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFcZqJZAZkdA7KcK94AVwRiZYyBsAmUTli2zPqAoNAKH4a8j1jFloU2Nh9sWU1rjcRf4&usqp=CAU" width="40" height="40">](https://www.linkedin.com/in/gozde-oztoprak-3350a8110/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAwZKUbcCqjqpIyEsFHY0OMIJhM4qcVI1_8wLD6B0smGSozLaUhYsKF9IdAypFpU9RLE&usqp=CAU" width="40" height="40">](https://www.instagram.com/gozde.oztoprak)
     
  ### Technologies & Tools
  
