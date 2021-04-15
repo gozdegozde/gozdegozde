@@ -6,7 +6,7 @@
 
 ### A Junior Full Stack Developer!!!
 
-- Currently a student at Codaisseur Academy
+- Currently a student at Codaisseur Academy (Feb 2021 - Apr 2021)
 - Amsterdam, Netherlands
 
 
