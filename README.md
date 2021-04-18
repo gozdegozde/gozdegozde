@@ -39,5 +39,7 @@
 <img align="left" alt="redux logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png"/>
 <img align="left" alt="bootstrap logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"/>
 <br/>
+<br/>
+
 ### Most Recent Full-Stack Projects:
  
