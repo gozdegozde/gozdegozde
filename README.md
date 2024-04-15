@@ -4,7 +4,7 @@
 
 
 
-### A Junior Full Stack Developer!!!
+### Migration Engineer/Backend Developer
 
 - Graduate of the Codaisseur Coding Academy (Feb 2021 - Apr 2021)
 - Amsterdam, Netherlands
