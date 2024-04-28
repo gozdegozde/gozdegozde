@@ -38,6 +38,8 @@
 <img align="left" alt="react logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"/>
 <img align="left" alt="redux logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png"/>
 <img align="left" alt="bootstrap logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"/>
+<img align="left" alt="mongodb logo" width="26px" src="[https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fmongo-db-png%2F&psig=AOvVaw2odqlhMasWwOb_CN9IsKVA&ust=1714422663481000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCB2qDg5YUDFQAAAAAdAAAAABAE)"/>
+
 <br/>
 <br/>
 
