@@ -39,7 +39,7 @@
 <img align="left" alt="redux logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png"/>
 <img align="left" alt="bootstrap logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"/>
 <img align="left" alt="mongodb logo" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg"/>
-<img align="left" alt="pyhton logo" width="26px" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg/>
+<img align="left" alt="pyhton logo" width="26px" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"/>
 
 
 <br/>
